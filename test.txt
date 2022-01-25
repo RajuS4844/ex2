@@ -1,0 +1,11 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 3DD8-66A0
+
+ Directory of D:\Practice
+
+25-01-2022  08:45    <DIR>          .
+25-01-2022  08:45    <DIR>          ..
+25-01-2022  08:27               327 index.html
+25-01-2022  08:45                 0 test.txt
+               2 File(s)            327 bytes
+               2 Dir(s)  84,636,008,448 bytes free
